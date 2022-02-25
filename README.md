@@ -1,3 +1,5 @@
+###  ✨Simple Flutter & Swift Calulator App Project ✨ 
+
 
 ```
 main branch - Swift code
@@ -12,7 +14,7 @@ flutter branch - flutter code
 
 
 ## 개발 동기
-- 각각 다른 프레임워크를 사용하여 하나의 공통된 기획 명세를 구현하면서 각 기술에 대한 이해도 증진
+- 각각 다른 프레임워크를 사용하여 하나의 공통된 계산기 어플리케이션을 구현하면서 각 기술에 대한 이해도 증진
 
 
 ## 요약
